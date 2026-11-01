@@ -7,11 +7,12 @@
   </a>
   <img src="https://img.shields.io/badge/Focus-Red_Team_Operations-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Specialty-API_%26_Logic_Flaws-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Bug_Bounty-Hunter-brightgreen?style=flat-square" />
 </p>
 
 ---
 
-### 👨‍💻 `whoami`
+### 🥷🏻 `whoami`
 I am a **Red Team Operator** and **Offensive Security Researcher**. I don't rely on automated scanners; I dive deep into source code, reverse-engineer custom cryptographic implementations, and break architectural trust boundaries.
 
 My research focuses on finding the complex, high-impact vulnerabilities that standard tools fail to detect.
@@ -22,7 +23,16 @@ My research focuses on finding the complex, high-impact vulnerabilities that sta
 ---
 
 ### 🏆 Notable Achievements
-*   **High-Severity Privilege Escalation:** Identified an OAuth Scope Misconfiguration in an enterprise SaaS platform, allowing privilege escalation from Student to Teacher (Responsible Disclosure).
+
+| Severity | Vulnerability Type | Target |
+| :--- | :--- | :--- |
+| **Critical** | Unauthenticated Command Injection (RCE) | Enterprise SaaS Platform |
+| **Critical** | OAuth Scope Misconfiguration (Privilege Escalation) | B2B Multi-Tenant API |
+| **High** | Business Logic Flaw (Privilege Bypass) | Learning Management System |
+| **High** | IDOR / Broken Object Level Authorization | Cloud Infrastructure API |
+| **Medium** | Stored Cross-Site Scripting (XSS) | Corporate Web Application |
+
+*(Note: Company names are redacted in accordance with Responsible Disclosure policies).*
 
 ---
 
