@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Mustafa Ghallab</h1>
+<h3 align="center">Red Team Operator | Offensive Security Researcher</h3>
 
-<!--
-**m-ghlb/m-ghlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/m-ghlb">
+    <img src="https://komarev.com/ghpvc/?username=m-ghlb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Red_Team_Operations-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialty-API_%26_Logic_Flaws-blue?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 `whoami`
+I am a **Red Team Operator** and **Offensive Security Researcher**. I don't rely on automated scanners; I dive deep into source code, reverse-engineer custom cryptographic implementations, and break architectural trust boundaries.
+
+My research focuses on finding the complex, high-impact vulnerabilities that standard tools fail to detect.
+
+- 🎯 **Focus Areas:** Red Team Operations & Adversary Emulation (MITRE ATT&CK), Web App Security, API Hacking (REST/GraphQL), OAuth 2.0 Misconfigurations, Multi-Tenant Isolation Bypasses, and Business Logic vulnerabilities.
+- 🧠 **Mindset:** Methodology over tools. Logic over payloads. Evidence-driven analysis.
+
+---
+
+### 🏆 Notable Achievements
+*   **High-Severity Privilege Escalation:** Identified an OAuth Scope Misconfiguration in an enterprise SaaS platform, allowing privilege escalation from Student to Teacher (Responsible Disclosure).
+
+---
+
+### 🛠️ Technical Arsenal
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-ghlb&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i>
+</p>
