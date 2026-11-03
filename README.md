@@ -30,7 +30,8 @@ My research focuses on finding the complex, high-impact vulnerabilities that sta
 | **Critical** | OAuth Scope Misconfiguration (Privilege Escalation) | B2B Multi-Tenant API |
 | **High** | Business Logic Flaw (Privilege Bypass) | Learning Management System |
 | **High** | IDOR / Broken Object Level Authorization | Cloud Infrastructure API |
-| **Medium** | Stored Cross-Site Scripting (XSS) | Corporate Web Application |
+| *High* | Custom Crypto Implementation Flaw (Authentication Bypass) | B2B OAuth Infrastructure |`
+
 
 *(Note: Company names are redacted in accordance with Responsible Disclosure policies).*
 
